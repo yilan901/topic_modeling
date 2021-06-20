@@ -1,2 +1,2 @@
 # topic_modeling
-A notebook demonstrating the use of Sentence Transformers, the HDBSCAN clustering algorithm and the UMAP dimensional reduction algorithm for topic modeling. For the results, check out this notebook on my [Kaggle account](https://www.kaggle.com/yonatanilan/topic-modeling-reviews-with-sentence-transformers).
+A notebook demonstrating the use of Sentence Transformers, the HDBSCAN clustering algorithm and the UMAP dimensional reduction algorithm for topic modeling. For the results, check out this notebook on my [Kaggle account](https://www.kaggle.com/yonatanilan/topic-modeling-reviews-with-sentence-transformers). The csv is too big for GitHub, but can of course be accessed on Kaggle.
